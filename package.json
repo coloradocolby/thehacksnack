@@ -1,0 +1,31 @@
+{
+  "name": "thehacksnack",
+  "author": {
+    "name": "Colby Thomas",
+    "url": "https://thehacksnack.com"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.0",
+    "@types/react": "17.0.37",
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7",
+    "typescript": "4.5.4",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "@tailwindcss/forms": "^0.4.0",
+    "@tailwindcss/line-clamp": "^0.3.0",
+    "tailwind-nord": "^1.2.0",
+    "tailwindcss": "^3.0.5"
+  }
+}
